@@ -1,15 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Pomodoro Clock</title>
-</head>
+
+
 <body>
   <h1>Pomodoro Clock</h1>
   
   <p>The Pomodoro Clock is a simple time management tool that helps improve productivity using the Pomodoro Technique. It provides a graphical user interface (GUI) for setting customizable work time, break time, and long break time intervals. The program alternates between work sessions and breaks, keeping track of completed sessions and displaying a countdown timer.</p>
   
   
-  
+  <h2 align="center">Video Demo</h2>
+<p align="center">
+    <a href="https://youtu.be/g46tWXGa864">
+        <img src="https://img.youtube.com/vi/g46tWXGa864/0.jpg" alt="Video">
+    </a>
+</p>
+
   <h2>Features</h2>
   <ul>
     <li>Set custom work time, break time, and long break time intervals.</li>
